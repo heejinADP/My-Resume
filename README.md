@@ -38,18 +38,18 @@
    
 ## SKILL SET     
 **Language**                      
-Python, R    
+* Python, R    
 **OS**                            
-Windows, Linux
+* Windows, Linux    
 **DBMS**                         
-MySQL, Hadoop, Cloudera    
+* MySQL, Hadoop, Cloudera    
 **etc**                           
-Jupyter Lab, R studio, PowerBI    
+* Jupyter Lab, R studio, PowerBI    
     
 ## EDUCATION    
-**대한상공회의소 서울기술교육센터**     
-2018. 07 – 2018.11(현재)     
-전략경영 빅데이터 분석 전문가 과정        
-**동의대학교**    
-2006. 04 - 2017.07     
-유통관리학과       
+**대한상공회의소 서울기술교육센터     
+2018. 07 – 2018.11(현재)**           
+* 전략경영 빅데이터 분석 전문가 과정        
+**동의대학교    
+2006. 04 - 2017.07**     
+* 유통관리학과       
